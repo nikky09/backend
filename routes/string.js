@@ -26,3 +26,9 @@ router.post('/sca', async (req, res) => {
 
 module.exports = router;
 
+// git init
+// git remote add origin https://github.com/anything/repo-name.git
+// git add .
+// git commit -m "Changes"
+// git branch -M main
+// git push -u origin main
