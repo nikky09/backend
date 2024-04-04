@@ -1,0 +1,7 @@
+change the ip address : root-> server.js //line no. 128
+                        root->env -> client_url //line no. 9
+
+
+run this project command:
+$ yarn install
+$ nodemon server.js
